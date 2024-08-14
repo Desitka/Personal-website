@@ -1,0 +1,45 @@
+body{
+background-color: rgb(181, 215, 233);
+font-family: 'Noto Sans', sans-serif;
+font-weight: 500;
+font-size: large;
+color: rgb(8, 4, 71);
+}
+h1 {
+    font-family: 'Kalam', cursive;
+    font-size: xx-large;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+img{ height: 300px;
+}
+.top-container {
+       text-align: center;
+       
+}
+.top-container>div {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: left;
+    gap: 20px;
+}
+hr {
+ border-style: dashed;
+ color: rgb(8, 4, 71);
+ margin: 30px 30px;
+}
+.middle-container {
+    text-align: left;
+    margin: 10% 20% 10% 20%;
+}
+.bi-cup-hot-fill {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.bi-suitcase-lg-fill {align-self: center;
+    margin-left: 15%;}
