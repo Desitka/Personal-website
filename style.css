@@ -1,4 +1,8 @@
-body{
+body {
+  background-image: url("dark water image.jpg"); /* Path to your image */
+  background-size: cover;        /* Make it fill the screen */
+  background-repeat: no-repeat;  /* Prevent tiling */
+  background-position: center;   /* Center the image */
 background-color: rgb(181, 215, 233);
 font-family: 'Noto Sans', sans-serif;
 font-weight: 500;
@@ -43,4 +47,5 @@ hr {
 }
 .bi-suitcase-lg-fill {align-self: center;
     margin-left: 15%;}
+
 
